@@ -17,12 +17,12 @@
 class Emirhan:
     def __init__(self):
         self.role = "AI & Backend Developer"
-        self.education = "Bilgisayar Muhendisligi"
+        self.education = "Bilgisayar Mühendisliği"
         self.interests = ["Yapay Zeka", "Backend", "Full-Stack"]
-        self.current_focus = "AI-Powered Kariyer Platformlari"
+        self.current_focus = "AI-Powered Kariyer Platformları"
 
     def say_hi(self):
-        print("Merhaba! Yapay zeka ve yazilim gelistirmeye tutkuyla bagliyim")
+        print("Merhaba! Yapay zeka ve yazılım geliştirmeye tutkuyla bağlıyım 🚀")
 
 me = Emirhan()
 me.say_hi()
@@ -45,6 +45,8 @@ me.say_hi()
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
@@ -69,11 +71,7 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emirhannz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emirhannz&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhannz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -81,13 +79,11 @@ me.say_hi()
 
 ## 🏆 Öne Çıkan Projeler
 
-<div align="center">
+| Proje                                                          | Açıklama                             | Teknolojiler                |
+| -------------------------------------------------------------- | ------------------------------------ | --------------------------- |
+| 🎯 [**KariyerKoçu**](https://github.com/Emirhannz/KariyerKocu) | AI destekli kariyer koçluk platformu | Python, FastAPI, React, LLM |
 
-[![KariyerKocu](https://github-readme-stats.vercel.app/api/pin/?username=Emirhannz&repo=KariyerKocu&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Emirhannz/KariyerKocu)
-
-</div>
-
-> 🎯 **KariyerKoçu** — AI destekli kariyer koçluk platformu. CV analizi, mülakat simülasyonu, iş ilanı arama ve kişiselleştirilmiş kariyer tavsiyeleri sunar.
+> 🎯 **KariyerKoçu** — CV analizi, mülakat simülasyonu, iş ilanı arama ve kişiselleştirilmiş kariyer tavsiyeleri sunan AI platformu.
 
 ---
 
