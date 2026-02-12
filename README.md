@@ -13,20 +13,12 @@
 
 ## 🚀 Hakkımda
 
-```python
-class Emirhan:
-    def __init__(self):
-        self.role = "AI & Backend Developer"
-        self.education = "Bilgisayar Mühendisliği"
-        self.interests = ["Yapay Zeka", "Backend", "Full-Stack"]
-        self.current_focus = "AI-Powered Kariyer Platformları"
+Merhaba! Ben Emirhan, yapay zeka ve yazılım geliştirmeye tutkuyla bağlı bir **Bilgisayar Mühendisliği** öğrencisiyim 🚀
 
-    def say_hi(self):
-        print("Merhaba! Yapay zeka ve yazılım geliştirmeye tutkuyla bağlıyım 🚀")
-
-me = Emirhan()
-me.say_hi()
-```
+- 🔭 Şu anda **AI destekli kariyer platformları** üzerinde çalışıyorum
+- 🤖 İlgi alanlarım: **Yapay Zeka, Backend, Full-Stack Geliştirme**
+- 🌱 LLM, YOLO ve modern web teknolojileri öğreniyorum
+- 💬 Projelerim hakkında benimle iletişime geçebilirsin
 
 ---
 
@@ -79,11 +71,9 @@ me.say_hi()
 
 ## 🏆 Öne Çıkan Projeler
 
-| Proje                                                          | Açıklama                             | Teknolojiler                |
-| -------------------------------------------------------------- | ------------------------------------ | --------------------------- |
-| 🎯 [**KariyerKoçu**](https://github.com/Emirhannz/KariyerKocu) | AI destekli kariyer koçluk platformu | Python, FastAPI, React, LLM |
-
-> 🎯 **KariyerKoçu** — CV analizi, mülakat simülasyonu, iş ilanı arama ve kişiselleştirilmiş kariyer tavsiyeleri sunan AI platformu.
+| Proje                                                          | Açıklama                                                                                                                         | Teknolojiler                |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 🎯 [**KariyerKoçu**](https://github.com/Emirhannz/KariyerKocu) | AI destekli kariyer koçluk platformu — CV analizi, mülakat simülasyonu, iş ilanı arama ve kişiselleştirilmiş kariyer tavsiyeleri | Python, FastAPI, React, LLM |
 
 ---
 
