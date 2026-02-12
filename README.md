@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Emirhan%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Backend%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Emirhan%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Backend%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 
-`<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Yapay+Zeka+%26+Backend+Geli%C5%9Ftirici;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;AI+Powered+Solutions+Builder" alt="Typing SVG" />``</a>`
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Yapay+Zeka+%26+Backend+Gelistirici;AI+Powered+Solutions+Builder;Computer+Engineering+Student)
 
 </div>
 
@@ -18,12 +17,12 @@
 class Emirhan:
     def __init__(self):
         self.role = "AI & Backend Developer"
-        self.education = "Bilgisayar Mühendisliği"
+        self.education = "Bilgisayar Muhendisligi"
         self.interests = ["Yapay Zeka", "Backend", "Full-Stack"]
-        self.current_focus = "AI-Powered Kariyer Platformları"
+        self.current_focus = "AI-Powered Kariyer Platformlari"
 
     def say_hi(self):
-        print("Merhaba! Yapay zeka ve yazılım geliştirmeye tutkuyla bağlıyım 🚀")
+        print("Merhaba! Yapay zeka ve yazilim gelistirmeye tutkuyla bagliyim")
 
 me = Emirhan()
 me.say_hi()
@@ -70,10 +69,11 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emirhannz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emirhannz&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emirhannz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhannz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emirhannz&theme=tokyonight&hide_border=true&background=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhannz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -83,9 +83,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/Emirhannz/KariyerKocu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emirhannz&repo=KariyerKocu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=06b6d4" />
-</a>
+[![KariyerKocu](https://github-readme-stats.vercel.app/api/pin/?username=Emirhannz&repo=KariyerKocu&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Emirhannz/KariyerKocu)
 
 </div>
 
@@ -99,7 +97,7 @@ me.say_hi()
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emirhannz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emirhannz)
-[![](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](emirhanzileli@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhan@example.com)
 
 </div>
 
@@ -107,16 +105,9 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Activity Graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emirhannz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=06b6d4&point=6366f1" width="95%"/>
-
-<!-- Profile Views -->
-
-<img src="https://komarev.com/ghpvc/?username=Emirhannz&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+![Profile Views](https://komarev.com/ghpvc/?username=Emirhannz&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=120&section=footer" width="100%"/>
 
 </div>
